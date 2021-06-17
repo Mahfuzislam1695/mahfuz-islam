@@ -1,0 +1,27 @@
+<style>
+    h1{
+         text-align: center; 
+      }
+      h2{
+          text-align: center;
+      }
+      h3{
+          text-align: center;
+      }
+      p{
+         font-size: larger; 
+         text-align: justify;
+      }
+      .blog{
+          border: 3px solid red;
+          border-radius:3px;
+          margin: 1%;
+          padding-left: 2px;
+          width: 30%;
+          float: left;
+      }
+      body{
+          background-color: rgb(176, 210, 230);
+      }
+     
+</style>
